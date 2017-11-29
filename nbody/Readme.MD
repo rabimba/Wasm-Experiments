@@ -3,7 +3,7 @@ This will be a repository containing perfromacne benchmarks between WASM and Jav
 Optimized codes are taken from "The Computer Language
 Benchmarks Game": https://benchmarksgame.alioth.debian.org/u64q/cpp.html and some custom modifications for the javascript versions
 
-This repor right now only holds n-body implementations but will ahve the others as well.
+This repo right now only holds n-body implementations but will ahve the others as well.
 
 # How to run
 
